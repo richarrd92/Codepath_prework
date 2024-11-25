@@ -19,6 +19,18 @@ https://www.loom.com/share/0b7a455a1a78468fae710a3c725a4110?sid=a8a56476-bc19-45
 
 ## App Brainstorming (Step 4)
 
+Some of my favorite apps include;
+
+- instagram: i would love to add a feature that lets users know who follows them back and not, and lastly a feature that always use to post pictures that can only be viewed by certain people
+- youtube: 
+- 
+
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
+Example App: Instagram
+Changing the background color of the messages screen
+Deleting old messages
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
