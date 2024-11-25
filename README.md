@@ -22,6 +22,7 @@ https://www.loom.com/share/0b7a455a1a78468fae710a3c725a4110?sid=a8a56476-bc19-45
 ## Notes
 
 Describe any challenges encountered while building the app.
+- The instructions were pretty much straight forward, as a result i had no issues while building the app
 
 ## License
 
