@@ -1,23 +1,21 @@
-# Prework - *Name of App Here*
+# Prework - *Prework project*
 
-Submitted by: **Your Name Here**
+Submitted by: **Richard Maliyetu**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2 hours** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/0b7a455a1a78468fae710a3c725a4110?sid=a8a56476-bc19-4584-8819-987df23a0af6
 
 ## App Brainstorming (Step 4)
 
