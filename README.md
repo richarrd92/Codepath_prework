@@ -19,17 +19,32 @@ https://www.loom.com/share/0b7a455a1a78468fae710a3c725a4110?sid=a8a56476-bc19-45
 
 ## App Brainstorming (Step 4)
 
-Some of my favorite apps include;
+Favorite Apps and Features
 
-- instagram: i would love to add a feature that lets users know who follows them back and not, and lastly a feature that always use to post pictures that can only be viewed by certain people
-- youtube: 
-- 
+Instagram
 
-Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-Example App: Instagram
-Changing the background color of the messages screen
-Deleting old messages
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+- Add a feature to let users easily see who follows them back or not.
+- Introduce a feature to post pictures that can only be viewed by selected individuals for enhanced privacy.
+
+YouTube
+
+- The personalized "Watch Later" playlist for organizing videos to view at leisure.
+- Video recommendations tailored to user interests.
+
+Spotify
+
+- The Discover Weekly playlist feature that introduces new music based on listening habits.
+- The ability to create and share custom playlists with friends.
+
+## App Idea: Structured Gym Timer for iOS
+I often find the existing gym timer apps on iOS either cluttered or lacking the structure needed for an efficient workout. My idea is to create a well-designed gym timer app tailored for fitness enthusiasts who value organization and ease of use. Key features would include:
+
+- Customizable Workouts: Allow users to create, save, and organize workout routines, including warm-ups, active sets, and rest intervals.
+- Visual Cues and Sounds: Provide visual and auditory signals for transitions between exercises, rest periods, and workout completion.
+- Progress Tracking: Include a feature to track workout history and progress over time, integrating with Apple Health.
+- Community Features: Option to share routines with friends or download routines from popular fitness influencers.
+  
+This app would combine aesthetics and functionality, addressing the gap in the market for a structured, user-friendly gym timer.
 
 ## Notes
 
